@@ -104,7 +104,7 @@ theme = "hugo-elate-theme"
     description = "We are a brand new startup.  We're hoping this section gets filled up pretty quickly within the coming months."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;A great experience all round!  I only had a single domain name that I used for emails.  I contacted St.Helens Tech and withing a week I had a brand new site.&rdquo;"
+      quote = "&ldquo;A great experience all round!  I only had a single domain name that I used for emails.  I contacted St.Helens Tech and within a week I had a brand new site.&rdquo;"
       person = 'James Thorpe <a href="http://foxwoodjoineryltd.co.uk" target="_blank">Foxwood Joinery</a> <span class="subtext">Partner</span>'
       img = "person1.jpg"
       alt = "Person1"
@@ -116,7 +116,7 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Services"
-    description = "We offer a super simple apporach to web site implementation.  We specialise in a range of services to help the online side of local businesses; so you can concertrate on what you do best."
+    description = "We offer a super simple apporach to web site implementation.  We specialise in a range of services to help the online side of local businesses; so you can concentrate on what you do best."
 
     [[params.services.item]]
       title = "Website Development"
@@ -142,7 +142,7 @@ theme = "hugo-elate-theme"
   [params.about]
     enable = true
     title = "About"
-    description = "We are a brand new startup, aimed at giving local businesses a platform to grow in the online environment.  We are here to take out the stress of designing, developing and hosting simple websites, so that you can concertrate on running your business."
+    description = "We are a brand new startup, aimed at giving local businesses a platform to grow in the online environment.  We are here to take out the stress of designing, developing and hosting simple websites, so that you can concentrate on running your business."
 
    
   # Counters section

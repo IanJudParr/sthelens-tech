@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "https://sthelens-tech.github.io/"
-title = "St.Helens Tech"
+title = "St.Helens Tech."
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -14,7 +14,7 @@ theme = "hugo-elate-theme"
   email = "ianjudparr@gmail.com"
   # Navigation
   [params.navigation]
-    brand = "St.Helens Tech"
+    brand = "St.Helens Tech."
     home = "Home"
     work = "Work"
     testimonials = "Testimonials"

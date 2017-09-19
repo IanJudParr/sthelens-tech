@@ -3,5 +3,14 @@ $message = $args[0]
 # Commit changes.
 git add -A
 git commit -am $message
+git push origin master
 
-Write-Host "Press any key to continue ..."
+ hugo -d ../sthelens-tech.github.io
+
+cd ..
+cd sthelens-tech.github.io
+
+# Commit changes.
+git add -A
+git commit -am $message
+git push origin master

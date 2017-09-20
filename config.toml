@@ -42,7 +42,13 @@ googleAnalytics = "UA-106800441-1"
   [params.hero]
     title = "Updgrading small businesses"
     subtitle = 'one site at a time'
- 
+    pricing = "£20 per month"
+    pricingInfo = "No setup fee. No hosting charges. No content amendment charges."
+
+  [[params.hero.item]] 
+    text = "test 123"
+
+
   # Intro section
   # Available icons: http://simplelineicons.com/
   [params.intro]
@@ -58,9 +64,9 @@ googleAnalytics = "UA-106800441-1"
   # Work section
   [params.work]
     enable = false
-    title = "Work"
+    title = "Pricing"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+    price = "£20 per month"
 
     [[params.work.row]]
       img = "work_1.jpg"
@@ -117,7 +123,7 @@ googleAnalytics = "UA-106800441-1"
   [params.services]
     enable = true
     title = "Services"
-    description = "We offer a super simple apporach to web site implementation.  We specialise in a range of services to help the online side of local businesses; so you can concentrate on what you do best."
+    description = "For <u>only £20 per month</u>, we offer a super simple apporach to web site implementation.  We specialise in a range of services to help the online side of local businesses; so you can concentrate on what you do best. <p>We will design, implement and publish your website within 1 week of you contacting us.</p>"
 
     [[params.services.item]]
       title = "Website Development"
@@ -130,7 +136,7 @@ googleAnalytics = "UA-106800441-1"
       icon = "icon-equalizer"
 
       [[params.services.item]]
-      title = "CMS &amp; eCommerce"
+      title = "Hosting"
       description = ""      
       icon = "icon-globe"
 

@@ -1,8 +1,9 @@
 # Page settings
-baseurl = "https://sthelens-tech.github.io/"
+baseurl = "https://sthelens-tech.co.uk/"
 title = "St.Helens Tech."
 languageCode = "en-us"
 theme = "hugo-elate-theme"
+googleAnalytics = "UA-106800441-1"
 
 [params]
   
@@ -10,7 +11,7 @@ theme = "hugo-elate-theme"
 
   # Meta
   author = "Ian Parr Limited"
-  description = ""
+  description = "St.Helens Tech. is here to create lighweight online solutions for local businesses."
   email = "ianjudparr@gmail.com"
   # Navigation
   [params.navigation]

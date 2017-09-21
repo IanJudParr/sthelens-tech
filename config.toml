@@ -40,7 +40,7 @@ googleAnalytics = "UA-106800441-1"
   
   # Hero section
   [params.hero]
-    title = "Updgrading small businesses"
+    title = "Upgrading small businesses"
     subtitle = 'one site at a time'
     pricing = "£20 per month"
     pricingInfo = "No setup fee. No hosting charges. No content amendment charges."
